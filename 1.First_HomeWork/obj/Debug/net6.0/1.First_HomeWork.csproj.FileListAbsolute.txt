@@ -1,0 +1,15 @@
+C:\Users\Греча\Desktop\С#\1.First_HomeWork\bin\Debug\net6.0\1.First_HomeWork.exe
+C:\Users\Греча\Desktop\С#\1.First_HomeWork\bin\Debug\net6.0\1.First_HomeWork.deps.json
+C:\Users\Греча\Desktop\С#\1.First_HomeWork\bin\Debug\net6.0\1.First_HomeWork.runtimeconfig.json
+C:\Users\Греча\Desktop\С#\1.First_HomeWork\bin\Debug\net6.0\1.First_HomeWork.dll
+C:\Users\Греча\Desktop\С#\1.First_HomeWork\bin\Debug\net6.0\1.First_HomeWork.pdb
+C:\Users\Греча\Desktop\С#\1.First_HomeWork\obj\Debug\net6.0\1.First_HomeWork.csproj.AssemblyReference.cache
+C:\Users\Греча\Desktop\С#\1.First_HomeWork\obj\Debug\net6.0\1.First_HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Греча\Desktop\С#\1.First_HomeWork\obj\Debug\net6.0\1.First_HomeWork.AssemblyInfoInputs.cache
+C:\Users\Греча\Desktop\С#\1.First_HomeWork\obj\Debug\net6.0\1.First_HomeWork.AssemblyInfo.cs
+C:\Users\Греча\Desktop\С#\1.First_HomeWork\obj\Debug\net6.0\1.First_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Греча\Desktop\С#\1.First_HomeWork\obj\Debug\net6.0\1.First_HomeWork.dll
+C:\Users\Греча\Desktop\С#\1.First_HomeWork\obj\Debug\net6.0\refint\1.First_HomeWork.dll
+C:\Users\Греча\Desktop\С#\1.First_HomeWork\obj\Debug\net6.0\1.First_HomeWork.pdb
+C:\Users\Греча\Desktop\С#\1.First_HomeWork\obj\Debug\net6.0\1.First_HomeWork.genruntimeconfig.cache
+C:\Users\Греча\Desktop\С#\1.First_HomeWork\obj\Debug\net6.0\ref\1.First_HomeWork.dll
